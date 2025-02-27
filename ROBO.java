@@ -3,7 +3,7 @@ import robocode.*;
 import java.awt.Color;
 
 // API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
-
+// testando fazer alterações para treinar o uso do git 
 /**
  * ROBO - a robot by (your name here) NOVA VERSAO DO ROBO
  */
